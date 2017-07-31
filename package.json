@@ -1,0 +1,22 @@
+{
+  "name": "swipe",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "expo": "16.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/exponent/react-native/archive/sdk-16.0.0.tar.gz",
+    "react-native-elements": "^0.11.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-rallycoding": "^3.2.0",
+    "eslint-plugin-react": "^6.10.3",
+    "eslint-plugin-react-native": "^2.3.2",
+    "react-devtools": "^2.1.0"
+  }
+}
